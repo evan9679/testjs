@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "fusioncharts": "^4.2.2"z
+    "fusioncharts": "^4.2.2"
   }
 }
